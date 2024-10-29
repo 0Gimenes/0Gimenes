@@ -6,10 +6,6 @@
   <img height="500" src="https://i.pinimg.com/originals/b4/8c/6e/b48c6ecc510a63e4d37ee571550ca66b.gif"  />
 </div>
 
-<div align="center">
-  <img height="500" src="https://i.pinimg.com/originals/b4/8c/6e/b48c6ecc510a63e4d37ee571550ca66b.gif"  />
-</div>
-
 ###
 
 <h3 align="left">Status</h3>

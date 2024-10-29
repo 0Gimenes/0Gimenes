@@ -1,4 +1,3 @@
-
 <div align="center">
   <img height="500" src="https://i.pinimg.com/originals/b4/8c/6e/b48c6ecc510a63e4d37ee571550ca66b.gif"  />
 </div>
@@ -59,8 +58,10 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
-  <img height="91" src="https://i.pinimg.com/originals/10/44/89/104489b1f6dca2edd6bc031da2e424f8.gif"   />
+  <img height="91" src="https://i.pinimg.com/originals/10/44/89/104489b1f6dca2edd6bc031da2e424f8.gif"  />
 </div>
 
 ###

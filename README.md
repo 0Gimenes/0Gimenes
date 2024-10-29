@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=657786&size=25&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gabriel+Gimenes;I'm+17+years+old;I'm+from+Brazil+-+Campo+Grande+-+MS;I'm+an+IT+student+at+the+Federal+Institute+of+Mato+Grosso+Sul+(IFMS);Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-###<div align="center">
+<div align="center">
   <img height="500" src="https://i.pinimg.com/originals/b4/8c/6e/b48c6ecc510a63e4d37ee571550ca66b.gif"  />
 </div>
 

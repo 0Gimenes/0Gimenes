@@ -7,6 +7,11 @@
 </div>
 
 ###
+<div align="center">
+  <img height="500" src="https://i.pinimg.com/originals/b4/8c/6e/b48c6ecc510a63e4d37ee571550ca66b.gif"  />
+</div>
+
+###
 
 <h3 align="left">Status</h3>
 
@@ -32,6 +37,9 @@
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
   <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="50" alt="jest logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="50" alt="storybook logo"  />
 </div>
 
 ###
@@ -56,3 +64,11 @@
 ###
 
 <h4 align="left">Ñandejára toñemomba'eguasu</h4>
+
+###
+
+<div align="left">
+  <img height="100" src="https://i.pinimg.com/originals/10/44/89/104489b1f6dca2edd6bc031da2e424f8.gif"  />
+</div>
+
+###
